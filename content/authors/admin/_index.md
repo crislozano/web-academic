@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Cristina Lozano Argüelles is an Assistant Professor of interpreting and bilingualism at the Modern Languages and Literatures Department at John Jay College of Criminal Justice. She leads the Bi-Lab: Bilingualism and Interpreting, which researches interpreting and second language acquisition, and promotes bilingualism in the community.
+Cristina Lozano Argüelles is an Assistant Professor of interpreting and bilingualism at the Modern Languages and Literatures Department at John Jay College of Criminal Justice. She investigates the impact of interpreting experience second language processing. She is currently setting up her new eye-tracking lab on bilingualism and interpreting.
 
 
 
