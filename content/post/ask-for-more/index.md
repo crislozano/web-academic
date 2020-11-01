@@ -8,12 +8,13 @@ tags:
 - Academic
 - Job market
 categories:
-- Demo
+- Job market
 
 date: "2020-10-31T00:00:00Z"
 lastmod: ""
 featured: false
 draft: false
+disqusShortname: yourdiscussshortname
 
 ---
 
