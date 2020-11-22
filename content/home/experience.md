@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Research
-  * Teaching
-  * Service
+  * Research: eye-tracking, SLA, interpreting
+  * Teaching: interpreting, Spanish for heritage speakers
+  * Service: language program coordination
   """
 
 [[experience]]
@@ -39,6 +39,10 @@ date_format = "Jan 2006"
   location = "Indianapolis"
   date_start = "2015-01-01"
   date_end = "2015-06-01"
-  description = """Taught Medical Spanish, Intro to Spanish, and Computers and Translation."""
+  description = """Teaching:
+  
+  * Medical Spanish
+  * Intro to Spanish
+  * Computers and Translation"""
 
 +++
