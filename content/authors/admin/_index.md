@@ -56,9 +56,9 @@ social:
   link: https://github.com/crislozano
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,7 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Cristina Lozano Argüelles is an Assistant Professor of interpreting and bilingualism at the Modern Languages and Literatures Department at John Jay College of Criminal Justice. She investigates the impact of interpreting experience second language processing. She is currently setting up her new eye-tracking lab on bilingualism and interpreting.
-
-
-
+Cristina Lozano Argüelles is an Assistant Professor of interpreting and bilingualism at the Department of Modern Languages and Literatures at John Jay College of Criminal Justice. She investigates monolingual and bilingual language processing and, in particular, the effects of interpreting experience on second language processing. She is currently working with undergraduate students and setting up her new eye-tracking lab on bilingualism and interpreting.
