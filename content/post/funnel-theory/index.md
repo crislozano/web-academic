@@ -22,7 +22,11 @@ I feel like I'm a slow researcher. I read slow, I write slow, I review my writin
 
 Recently, I've found myself looking at other outlets beyond academia. In particular, I've started following some content creators on YouTube. I got here because, around a year ago, my brother told me that he watches YouTube. He doesn't watch Netflix, he watches Youtube, and apparently, this is something younger people do. I also wanted to be a cool kid and I started watching a few YouTube channels he pointed out.
 
-One of the channels was [JackConteExtras](https://www.youtube.com/user/JackConteExtras). Jack Conte is a musician and the founder of Patreon, a platform connecting content creators with their followers. He uses this channel to talk about his creative process. [This video](https://www.youtube.com/watch?v=5EuWCFCgy58&t) stood out to me because of the parallelisms between his music creation process and our research process. He tells the story about how he obsessively worked on getting the kick drum in one of his songs to make it "bright enough." Days working in his study to fix a minute detail. Does it sound familiar? Replace "kick drum" with "research question" or "discussion paragraph" and you are describing where many researchers get stuck. Importantly, Jack noticed that he had a problem. Jack and I found out that we have the same problem.
+One of the channels was [JackConteExtras](https://www.youtube.com/user/JackConteExtras). Jack Conte is a musician and the founder of Patreon, a platform connecting content creators with their followers. He uses this channel to talk about his creative process. [This video](https://www.youtube.com/watch?v=5EuWCFCgy58&t) stood out to me because of the parallelisms between his music creation process and our research process. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EuWCFCgy58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+He tells the story about how he obsessively worked on getting the kick drum in one of his songs to make it "bright enough." Days working in his study to fix a minute detail. Does it sound familiar? Replace "kick drum" with "research question" or "discussion paragraph" and you are describing where many researchers get stuck. Importantly, Jack noticed that he had a problem. Jack and I found out that we have the same problem.
 
 He attributes this issue to the impossibility of finding an end to the creative process. If you are playing soccer, it's easy to find the end. There is a big-timer visible at all times and rules in case of a tie. Finishing a game feels like an end. However, finishing a song for him, a paper for us, feels nothing like an end. Jack makes this distinction between working to publish and working for pleasure.
 
@@ -38,7 +42,7 @@ He defines publishing as the process of "deciding to stop when you want to keep 
 
 - "Do only what matters and then stop"
 
-This is probably the trickiest part. How can we draw the line between obsessing about a paper and making sure it is quality work? I probably have more questions than answers, but I sense that the key is 1. committing to publishing as a style of work, and 2. being clear about the goal. Thinking about our main objective will help us not lose sight of what we want to accomplish. For instance, when writing a paper, have we made sure our conclusions are contributions to the field are clear? If yes, then maybe spending 5 hours tinkering with the graphs on R to make them crisper is not worth it.
+This is probably the trickiest part. How can we draw the line between obsessing about a paper and making sure it is good quality? I probably have more questions than answers, but I sense that the key is 1. committing to publishing as a style of work, and 2. being clear about the goal. Thinking about our main objective will help us not lose sight of what we want to accomplish. For instance, when writing a paper, have we made sure our conclusions are contributions to the field are clear? If yes, then maybe spending 5 hours tinkering with the graphs on R to make them crisper is not worth it.
 
 - "The world is made of funnels"
 
