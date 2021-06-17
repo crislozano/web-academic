@@ -5,10 +5,10 @@ summary: Think like your interviewer.
 authors:
 - admin
 tags:
-- Academic
-- Job market
+- Productivity
+- Writing
 categories:
-- Job market
+- Productivity
 
 date: "2020-10-31T00:00:00Z"
 lastmod: ""
