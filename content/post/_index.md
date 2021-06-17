@@ -12,3 +12,12 @@ header:
   caption: ""
   image: ""
 ---
+
+<ul>
+    {{ range .Pages.ByDate.Reverse }}
+        <li>
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+            <time>{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
+        </li>
+    {{ end }}
+</ul>
