@@ -1,6 +1,6 @@
 ---
 title: "What if being nervous wasn't that bad?"
-subtitle: "Handling stressful situations like a pro."
+subtitle: "Handling stressful situations like a pro"
 summary: Handling stressful situations like a pro
 authors:
 - admin
