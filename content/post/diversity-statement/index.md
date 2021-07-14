@@ -44,7 +44,7 @@ Many think that you can only mention research if you work on issues such as gend
 
 - Get comfortable with being uncomfortable: this ted talk captures why the diversity statement is important, but only if we embrace the awkwardness it provokes on us by accepting that real change will be difficult.
 
-    <iframe width="560" height="315" src="[https://www.youtube.com/embed/QijH4UAqGD8](https://www.youtube.com/embed/QijH4UAqGD8)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QijH4UAqGD8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My goal is for you to pause and reflect on why the work and efforts on diversity matter and see they are not "just another document I need to get done."  Let me know about your struggles with the diversity statement or other job documents you are working on!
 
