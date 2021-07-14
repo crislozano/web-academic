@@ -32,9 +32,8 @@ Many think that you can only mention research if you work on issues such as gend
 
 - [How to make your teaching more inclusive](https://www.chronicle.com/article/how-to-make-your-teaching-more-inclusive/): this article should be mandatory reading. It opened my eyes to how teaching in the same way we were taught perpetuates differences among students from different socioeconomic backgrounds. It also gives you a set of tools on how to fix it (disclaimer, it is a lot of work).
 
-- This video explains in a very graphic way the diversity you will encounter in your classes
+- [This video](https://www.youtube.com/embed/vwx5IvypC5Q) explains in a very graphic way the diversity you will encounter in your classes. I've used to convince people about the importance seeing that students have different start points depending on the type of support they got at home (disclaimer, it might make you cry, I've seen it happen repeatedly). 
 
-    <iframe width="560" height="315" src="[https://www.youtube.com/embed/vwx5IvypC5Q](https://www.youtube.com/embed/vwx5IvypC5Q)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [For white folks that teach in the hood](https://www.amazon.com/White-Folks-Teach-Hood-Rest/dp/0807028029/ref=sr_1_3?dchild=1&keywords=white+folks+that+teach+in+the+hood&qid=1626268187&sr=8-3): this book explains beautifully why traditional methods don't work and how the teacher needs to get interested and immersed in the culture of their students to connect with them.
 
