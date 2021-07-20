@@ -18,8 +18,11 @@ disqusShortname: yourdiscussshortname
 ---
 
   <figure>
-    <img src="./featured.jpg" alt="{{ .Text }}">
+  
+    <img src="./dog.jpg" alt="{{ .Text }}">
+    
     <figcaption>Photo by <a href="https://unsplash.com/@camylla93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Camylla Battani</a> on <a href="https://unsplash.com/s/photos/raise-hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> </figcaption>
+    
   </figure>
 
 
