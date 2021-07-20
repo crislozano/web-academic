@@ -11,19 +11,20 @@ categories:
 
 date: "2020-10-31T00:00:00Z"
 lastmod: ""
+image:
+  placement: 3
+  caption: 'Photo by <a href="https://unsplash.com/@camylla93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Camylla Battani</a> on <a href="https://unsplash.com/s/photos/raise-hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+
 featured: false
 draft: false
 disqusShortname: yourdiscussshortname
 
 ---
 
-  <figure>
+
   
-    <img src="./dog.jpg" alt="{{ .Text }}">
     
-    <figcaption>Photo by <a href="https://unsplash.com/@camylla93?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Camylla Battani</a> on <a href="https://unsplash.com/s/photos/raise-hand?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> </figcaption>
-    
-  </figure>
+
 
 
 
