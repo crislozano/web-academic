@@ -35,7 +35,7 @@ I have met with a couple of instructors in our department to explain to them how
 
 ## Home page
 
-I don't know about your institution, but mine gives me a course landing page that is crowded with information nobody uses or needs. I've embraced minimalism in online courses. Give your students the bare minimum to get started and to get to know you. 
+I don't know about your institution, but mine gives me a course landing page that is crowded with information nobody uses or needs. In my home page, I've embraced minimalism in online courses. Give your students the bare minimum to get started and to get to know you. 
 I include links (and schedule) to office hours, optional live sessions, my email, technical support, and a brief introduction of myself. Period. They don't usually need links to all the repositories they can find at the library or the McGraw-Hill tool that nobody knows what it is for.
 
 ![Image](home.png)
@@ -44,21 +44,21 @@ I've been surveying my students and I have the impression that the social media 
 
 ## Weekly assignments
 
-Now, how do I organize my materials? The specific tool is going to depend on the platform you are using. But the idea can be implemented in any of them. In my case, it's Blackboard (don't tell anyone that I hate it 🤫). I create a new section on the left menu and call it weekly assignments. Inside that menu, there are folders with instructions for each week, and I also include the dates for that week (this was a suggestion of a former student). Notice that including the dates will involve changing the dates the next time you teach the course, but more on this later.
+Now, how do I organize my materials? The specific tool is going to depend on the platform you are using. But the idea can be implemented in any of them. In my case, it's Blackboard (don't tell anyone that I hate it 🤫). I create a new section on the left menu and call it weekly assignments. Inside that menu, there are folders with instructions for each week, and I also include the dates for that week (this was a suggestion of a former student). Notice that including the dates will involve changing the dates the next time you teach the course, but more on this later. Other platforms such as Canvas (CUNY, if you're reading, I'm giving you hints here 🙏🏼) have more user-friendly ways of organizing the information: modules that are easy to navigate and you can even make them sequential, such that students cannot move forward until they complete a specific assignment.
 
 ![Image](weekly.png)
 
-On a typical week, I include a summary video (2-4 minutes), a lecture video (never ever more than 15 minutes), reading + forum on the video, and an assignment (in my case, simultaneous interpreting, but think about what they would do on a regular week). They love short videos. 
+On a typical week, I include a summary video (2-4 minutes), a lecture video (never ever more than 15 minutes), reading + forum on the reading, and an assignment (in my case, simultaneous interpreting, but think about what they would do on a regular week). They love short videos. 
 
 ## Group work
 
 I've given workshops on how to organize group work in online courses, but I'll keep it short. Do not assign group work in the first 2 weeks of class. Use them to organize the groups. I've tried a couple of methods: 
 1. Using the forum tool of your platform.
-2. Slack
+2. Slack (here's a picture of how Slack looks like)
 
 ![Image](slack.png)
 
-Ask students to post a message saying when they can meet (i.e., weekends at 5 am, a very popular time). They should assign a leader (who will be in charge of recording the sessions and uploading them), and write the names of the people of the group as well as the time/days they meet on a google doc. This makes it easy for the professor to keep track of the groups and, if for whatever reason a student cannot make it to their group meeting, they can see when other groups meet and join one. I would suggest they use zoom to record, and then you can create a google doc folder where they upload them. Again, this saves you from having to deal with big video files as you can watch them on the folder without downloading them.
+Ask students to post a message saying when they can meet (i.e., weekends at 5 am, a very popular time). They should assign a leader (who will be in charge of recording the sessions and uploading them), and write the names of the people of the group as well as the time/days they meet on a google doc. This makes it easy for the professor to keep track of the groups and, if for whatever reason a student cannot make it to their group meeting, they can see when other groups meet and join one. I would suggest they use zoom to record the meeting, and then you can create a google doc folder where they upload them. This saves you from having to deal with big video files as you can watch them on the folder without downloading them.
 
 
 ## Repetition
@@ -71,13 +71,13 @@ I send announcements (a couple a week) and I send some messages on slack. I don'
 
 ## Maintenance
 
-Organizing everything I've mentioned is a lot of work, indeed. But once you have it, it's ready to go and you just have to tinker with it. One thing I would advise you to do is to keep your text and videos as timeless as you can. For my lectures, I don't mention whether it is Spring break, Christmas, or anything that has been on the news. If you do that, you'll have to record them again because the next time you teach the course, it won't be the same piece of news. However, for the introductory videos, I do mention current events. I update these videos every time I teach the course, so it makes sense. 
+Organizing everything I've mentioned is a lot of work, indeed. But once you have it, it's ready to go and you just have to tinker with it. One thing I would advise you is keeping your text and videos as timeless as you can. For my lectures, I don't mention whether it is Spring break, Christmas, or anything that has been on the news. If you do that, you'll have to record them again because the next time you teach the course, it won't be the same piece of news. However, for the introductory videos, I do mention current events. I update these videos every time I teach the course, so it makes sense. 
 
 Whenever you put dates, be aware that you'll have to update them. In the case of the weekly folders, I do think it'll be useful for students to see the date there, and I take the extra time to change them every semester. You can assess what adds value and what's not worth it.
 
 ## Videos
 
-I've been unsuccessfully trying to get into video editing for a while (I'll get you dinner if you want to teach me the basics). Hence, I don't edit anything and I keep it as low-tech as I can. I record them using zoom (but I do have a ring light 🙃). I create a new zoom meeting, hit record on the cloud (this saves you having to deal with big video files) 
+I've been unsuccessfully trying to get into video editing for a while (I'll get you dinner if you want to teach me the basics). Hence, I don't edit anything and I keep it as low-tech as I can. I record them using zoom (but I do have a ring light 🙃). I create a new zoom meeting, hit record on the cloud (again, saving you from having to deal with big video files) 
 
 ![Image](cloud.png)
 
@@ -85,4 +85,4 @@ Then you go to your account on the web, find your recordings and there it is. Yo
 
 ![Image](recordings.png)
 
-I think with this, you should be able to create a solid structure for your course. A while back I also wrote about what I learned from online teaching, you might find it interesting. Let me know if you want to know about any other aspect of online teaching.
+I think with this, you should be able to create a solid structure for your course. A while back [I also wrote about what I learned from online teaching](https://crislozano.me/post/online-pandemic-lessons/), you might find it interesting. Let me know if you want to know about any other aspect of online teaching.
