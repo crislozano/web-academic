@@ -1,0 +1,40 @@
+---
+title: "Campus visits part 2: chit chat"
+subtitle: "What to talk about during meals and individual meetings"
+summary: "What to talk about during meals and individual meetings"
+authors:
+- admin
+tags:
+- Job market
+categories:
+- Job market
+
+date: "2020-10-31T00:00:00Z"
+lastmod: ""
+image:
+  placement: 1
+  caption: 'Photo by <a href="https://unsplash.com/@amyhirschi?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amy Hirschi</a> on <a href="https://unsplash.com/s/photos/work-interview?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>'
+
+featured: false
+draft: false
+disqusShortname: yourdiscussshortname
+
+---
+
+This week I answer the questions a friend sent me:
+
+"*What tips can you give me regarding what to talk about while a professor drives to/from the airport or during individual meetings with faculty? I'm guessing they should be very different types of conversations and I would appreciate your input. Also, do you think that faculty share with each other what you talk about during those conversations? Can you talk about research money? I'm afraid at a SLAC they won't like if I make too many research questions. Finally, a family member lives close to one of the universities where I'll interview, can I mention it?*"
+
+My immediate mental reaction was "Well, it depends". Don't forget that you're interacting with regular people, everyone is different and you'll need to adapt to their personalities. But as I gave it some more thought, there are certain general principles. A few topics stored in a handy folder in your brain disk will save you if you bump into someone on the quiet side of humanity (which happens).
+
+While people are walking/driving you around, ask about your surroundings. Where do professors usually live? How do you commute? Do you have any favorite restaurants/supermarkets? A good search committee will tell you all this. I distinctly remember how one committee immediately understood where I was coming from and what I could like. They made sure to take me to the only hipster restaurant in town, drove me around the neighborhood where professors lived (beautiful houses), told me that there were organic supermarkets in town, and that many people from California were moving there because of its affordability. However, not every committee will plan this so well, so be prepared with a bunch of these questions. Inquiring about life in town is beneficial for two reasons: you get an idea about how life there would be, but you also show your strong interest in that interview, you are getting ready for life there. This point is important. Don't forget the committee knows that you're dating around other departments and they are also gauging how likely it is that you'll choose them ([read here](https://medium.com/@jeanqasaur/all-i-really-needed-to-know-i-learned-from-the-bachelor-b966d13879d1) on what you can learn about the academic market from watching The Bachelor).
+
+Individual meetings are harder to fit in one box, they come in different shapes, but business-related topics are probably expected. If you are meeting with someone in your field of research, you could talk about your next research projects (similar to what you would do at a conference). Money, however, can be a tricky topic. Questions about the salary are out of the table. This is obviously an important factor for selecting the job, but a quick google search will give answers about what to expect and you'll discuss it with the dean/provost when you get the offer. Nonetheless, you can ask about support for different areas of the job. If the job is research focus, what kind of resources are available for going to conferences, starting a lab? Are there programs supporting undergraduate research? What about grant writing support? I wouldn't ask about a specific $ amount (i.e., how much money do you get for...?). Instead, ask about resources and see whether they volunteer how much money you would get. If they don't, you can follow up with something along the lines of "and how many conferences do you usually attend?", focusing on the outcome rather than on the figure.
+
+As for asking too many research questions, yes, this can happen. A good idea is figuring out how much research is expected from you, which can be very difficult. Just to give you an idea, I'm in the second year of my tenure track and I'm still not clear about how many articles I'm expected to write for tenure. But you can google associate professors from the department. Do they publish every year? Or have they published only a couple of articles while working towards tenure? The former scenario would grant you permission to ask a good amount of research questions (they'll want to hear about them too, it shows you understand what you need to do the get tenure). The latter alternative would caution you against asking too many research details, they'll immediately see that you don't belong there.
+
+Personal information is also tricky. The rule of thumb is to share it only when it plays to your advantage. I needed a visa/green card sponsorship, which is "bad" (aka, you'll cost them more money), so I didn't mention it until I got to the negotiation. Conversely, a colleague made sure the committee he interviewed with knew he had a green card because it's one headache less for them. Having a family member close by is usually good, it makes the place look more attractive for you, so go ahead and share it.
+
+Faculty members will talk about you. Both during the campus visit and during the meeting where they'll decide on which candidate they will invite. Rather than reporting on the whole conversation you had with them during lunch, they will more likely share impressions and include the snippets they took away from those conversations. And you want them to talk about you. Otherwise, it just means they forgot you. The forgetting can happen after Zoom interviews. They go through a lot of people in a short period of time, so saying generic things that seem to come out of a human resources manual won't get you far. But campus visits are more intense and have fewer candidates, so it's harder to forget. Remember that they point of the campus visit is to getting to know each other better. The interviews, meals, etc. are a way to achieve that goal. And committee members are looking forward to hear what their colleagues thought of you. Each one will have a different perspective and they want to hear the other parts. Just to give you an example, I want to hear about what senior members thought of a candidate and (I assume) they want to hear about my perspective as someone who just went through that experience and as someone who is specialized in the same research/teaching field. 
+
+Finally, remember these are some guidelines. Don't freak out if you end up talking about research on the ride to the airport or the best restaurants in town during your meeting with the chair. A big part of the final decision is chemistry, [just like in dating](https://medium.com/@ggcanella/the-academic-job-market-is-a-lot-like-online-dating-and-that-is-horrifying-f00ce2b24ae3). Discussing your favorite Netflix shows might help you achieve that chemistry (but planning these conversations borders sociopath, so please, don't plan do it). Like I've mentioned before, [adopting an interviewer mindset](https://crislozano.me/post/interview-mindset/) can help. How would you feel if you are interviewing someone who has memorized a script to interact with people? I wouldn't trust that person. You've probably prepared enough, don't let that preparation make you sound scripted. Instead, go to the interview being curious about everything, the people, students, the place, etc. Pay attention to how you feel there, did you enjoy the conversations or were you tense because you couldn't speak your mind? This is key information for making your final decision. Good luck and let me know how it went!
