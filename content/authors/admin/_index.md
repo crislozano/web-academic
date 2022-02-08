@@ -77,3 +77,6 @@ user_groups:
 ---
 
 Cristina Lozano Argüelles is an Assistant Professor of interpreting and bilingualism at the Department of Modern Languages and Literatures at John Jay College of Criminal Justice. She investigates monolingual and bilingual language processing and, in particular, the effects of interpreting experience on second language processing. She is currently working with undergraduate students and setting up her new eye-tracking lab on bilingualism and interpreting.
+
+Check out [my blog](https://crislozano.substack.com/), my [lab's website](https://bilingualmindproject.com/), and my [lab's instagram](https://www.instagram.com/bilingualmindproject/).
+
